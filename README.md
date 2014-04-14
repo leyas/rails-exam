@@ -1,2 +1,3 @@
 rails-exam
 ==========
+Szymon Leyk
